@@ -1,2 +1,2 @@
-Screenshot from 2024-01-26 20-16-55.png
-# exte-linux
+  "name": "Activities Filled Pill",
+  "description": "CI fixes for the panel"
